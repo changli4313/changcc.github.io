@@ -4,10 +4,10 @@ SEOTitle: 常CC的博客
 header-img: img/post-bg-index.jpg
 email: 1274772283@qq.com
 description: "Every failure is leading towards success."
-keyword: "常CC的博客, 常CC, Java"
+keyword: "常CC的博客, 常CC, CC助研系列"
 url: "https://changcc.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/changli4313/changli4313.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     fanxinruocheng
+zhihu_username:     changcc
+github_username:    changli4313
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+# twitter_username:   wzbcode
 
 
 # Build settings
@@ -55,7 +55,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: flyingwzb
+# disqus_username: changcc
 
 # Gitalk
 gitalk:
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 6efcd49b5e3aeec292a9fcfef6024dfb
 
 # Google Analytics
 #ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
