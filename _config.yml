@@ -12,7 +12,7 @@ github_repo: "https://github.com/changli4313/changli4313.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "春风得意马蹄疾，一日看尽长安花。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mebeijing.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
